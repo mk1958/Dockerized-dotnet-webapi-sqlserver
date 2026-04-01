@@ -106,6 +106,7 @@ Update ports if conflicts occur
 
 ---
 
+
 ## 💡 Final Tip
 
 👉 You understand **development → testing → containerization → deployment**
@@ -113,4 +114,4 @@ Update ports if conflicts occur
 That’s exactly what recruiters want 🔥  
 
 ---
-
+<img width="1265" height="1020" alt="Screenshot 2026-03-31 115004" src="https://github.com/user-attachments/assets/b8ec4637-bb6a-467f-a7cf-482073eb8ee7" />
